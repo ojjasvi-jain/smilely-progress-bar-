@@ -5,6 +5,7 @@ body {
   align-items: center;
   box-sizing: border-box;
   height: 100vh;
+  background-color: lightgoldenrodyellow;
 }
 
 .container {
